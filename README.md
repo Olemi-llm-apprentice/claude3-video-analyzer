@@ -1,0 +1,2 @@
+# claude3-video-analyzer
+Claude3のマルチモーダル機能を用いてmp4の動画をプロンプトによる解析をします。
